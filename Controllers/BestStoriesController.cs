@@ -23,8 +23,8 @@ namespace BestStories.Controllers
             _memoryCache = memoryCache;
         }
 
-        [HttpGet("best202")]
-        public IEnumerable<BestStories> Get2()
+        [HttpGet("best20")]
+        public IEnumerable<BestStories> Get()
         {
             List<BestStories> bs = new List<BestStories>();
             if (_memoryCache.TryGetValue("best20", out List<int> cacheValue))
@@ -83,8 +83,8 @@ namespace BestStories.Controllers
 
         }
 
-        [HttpGet("best20")]
-        public IEnumerable<BestStories> Get()
+        [HttpGet("best202")]
+        public IEnumerable<BestStories> Get2()
         {
             if (!_memoryCache.TryGetValue("best20", out List<int> cacheValue))
             {
