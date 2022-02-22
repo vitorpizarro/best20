@@ -1,0 +1,8 @@
+C:\Users\vitor\source\repos\BestStories\BestStories\obj\Release\netcoreapp3.1\PubTmp\Out\BestStories.exe
+C:\Users\vitor\source\repos\BestStories\BestStories\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.Development.json
+C:\Users\vitor\source\repos\BestStories\BestStories\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.json
+C:\Users\vitor\source\repos\BestStories\BestStories\obj\Release\netcoreapp3.1\PubTmp\Out\BestStories.dll
+C:\Users\vitor\source\repos\BestStories\BestStories\obj\Release\netcoreapp3.1\PubTmp\Out\BestStories.deps.json
+C:\Users\vitor\source\repos\BestStories\BestStories\obj\Release\netcoreapp3.1\PubTmp\Out\BestStories.runtimeconfig.json
+C:\Users\vitor\source\repos\BestStories\BestStories\obj\Release\netcoreapp3.1\PubTmp\Out\BestStories.pdb
+C:\Users\vitor\source\repos\BestStories\BestStories\obj\Release\netcoreapp3.1\PubTmp\Out\Newtonsoft.Json.dll

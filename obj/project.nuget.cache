@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "3tzImgvUcRcn2dUGZ29EDpWsFiKk7/Gr1gNvm89yMgyWnFOIgtvV675g7d74Q3ue3nfkG1ZMn+aHBmJ+W1K8gg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vitor\\source\\repos\\BestStories\\BestStories\\BestStories.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vitor\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
